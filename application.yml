@@ -1,3 +1,2 @@
 jwt:
   secret: AkilanNilavanEduthavainathamChennaiTamilNadu
-  expiration-time: 86400000
